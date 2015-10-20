@@ -51,7 +51,7 @@
     "config-keys": "^0.0.4",
     "gridfs-stream": "^0.5.1",
     "lodash": "^2.4.1",
-    "mongoose": "^3.9.2"
+    "mongoose": "^4.1.12"
   },
   "devDependencies": {
     "jasmine-node": "^2.0.0",
